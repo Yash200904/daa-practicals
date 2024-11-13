@@ -1,1 +1,1 @@
-# daa-practicals
+# DAA
